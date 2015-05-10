@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sunshine</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="action_settings">Settings</string>
+    <string name="weather_title">Today, June 24</string>
+    <string name="temperature_high">29º</string>
+    <string name="temperature_low">8º</string>
+</resources>
